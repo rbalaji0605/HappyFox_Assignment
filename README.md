@@ -54,7 +54,11 @@ Highlighted the code review in each file as a comment
 
 # 12 - Proper setup() and teardown() structure is not followed, testNG annotations can be used 
 
-# 12 - Dynamic wait statement should be used to improve the execution time
+# 13 - Dynamic wait statement should be used to improve the execution time
+
+# 14 - Multiple method implementation is missing, for example loginAsAdmin
+
+
 
 
 
