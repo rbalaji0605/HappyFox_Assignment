@@ -52,6 +52,8 @@ Highlighted the code review in each file as a comment
 
 # 11 - Custom reporting can be implemented for each test case
 
+# 12 - Proper setup() and teardown() structure is not followed, testNG annotations can be used 
+
 # 12 - Dynamic wait statement should be used to improve the execution time
 
 
